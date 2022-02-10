@@ -5,19 +5,17 @@
   <p align="justify">Meu nome é Julia Costa e estou atualmente cursando o quarto ano do ensino médio integrado a informática no Instituo Federal de Educação, Ciência e Técnologia de São Paulo - Campus São Paulo. Minha carreira ainda está no início, porém, estou cursando um estágio na area de Front-End e já participei de muitos projetos empreendedores realizados no IFSP e inclusive meu grupo já ganhou um deles. Estou sempre em busca de novos conhecimentos afim de adquirir maior experiência.</p>
 </div>
 
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Jeleia&label=Profile%20views&color=DA70D6&style=flat" alt="Jeleia" /> 
-</p>
-
 <br>
+
 <div>
   <a href="https://github.com/Jeleiea">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=Jeleia&show_icons=true&theme=radical&count_private=true"/>
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeleia&layout=compact&theme=radical"/>
 </div>
   
-##
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Jeleia&label=Profile%20views&color=DA70D6&style=flat" alt="Jeleia" /> 
+</p>
 
   <div align="left">
     <h3>Tenho conhecimento em:</h3>
