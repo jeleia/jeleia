@@ -1,7 +1,7 @@
 <h2>Olá, seja bem vindo(a) ao meu perfil!</h2>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Jeleia&label=Profile%20views&color=ffcbdb&style=flat" alt="Jeleia" /> 
+  <img src="https://komarev.com/ghpvc/?username=Jeleia&label=Profile%20views&color=DA70D6&style=flat" alt="Jeleia" /> 
 </p>
 
 <div>
