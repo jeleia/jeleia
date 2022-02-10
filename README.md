@@ -13,11 +13,7 @@
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeleia&layout=compact&theme=radical"/>
 </div>
   
-<br>
-  
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Jeleia&label=Profile%20views&color=DA70D6&style=flat" alt="Jeleia" /> 
-</p>
+
 
   <div align="left">
     <h3>Tenho conhecimento em:</h3>
@@ -25,13 +21,20 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   </div>                                                                                                                              
-                                                                                                                                          <div align="left">
+  div align="left">
     <h3>Estou aprendendo:</h3>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   </div>
+    
+<br>
+  
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Jeleia&label=Profile%20views&color=DA70D6&style=flat" alt="Jeleia" /> 
+</p>
+
 <br>
   
   <h3 align="center">Entre em contato em:</h3>
