@@ -10,23 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=Jeleia&label=Profile%20views&color=DA70D6&style=flat" alt="Jeleia" /> 
 </p>
 
-<h3 align="center">Entre em contato em:</h3>
- <p align="center">
-  
-   <a href="https://www.linkedin.com/in/julia-costa-5595a1231/" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jeleia" height="30" width="40" />
-   </a>
-  
-   <a href="https://www.instagram.com" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jeleia" height="30" width="40" />
-   </a>
-  
-   <a href="https://discord.gg/Julia Lia#0426" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jeleia" height="30" width="40" />
-   </a>
-</p>
-
-<br>
 <br>
 <div>
   <a href="https://github.com/Jeleiea">
@@ -50,6 +33,19 @@
     <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   </div>
 <br>
+  
+  <h3 align="center">Entre em contato em:</h3>
+ <p align="center">
+  
+   <a href="https://www.linkedin.com/in/julia-costa-5595a1231/" target="blank">
+     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jeleia" height="30" width="40" />
+   </a>
+  
+   <a href="https://www.instagram.com" target="blank">
+     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jeleia" height="30" width="40" />
+   </a>
+  
+</p>
   
    <div align="center">
     <img align="center" src="https://raw.githubusercontent.com/AdryanAlencar/adryanalencar/output/github-contribution-grid-snake.svg"/>
