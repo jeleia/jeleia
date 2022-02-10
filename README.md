@@ -20,13 +20,13 @@
   <img src="https://komarev.com/ghpvc/?username=Jeleia&label=Profile%20views&color=DA70D6&style=flat" alt="Jeleia" /> 
 </p>
 
-<br>
 
   <div align="left">
     <h3>Tenho conhecimento em:</h3>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" alt="illustrator" height="30" width="40" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg">
   </div>    
   
   <div align="left">
