@@ -9,6 +9,23 @@
   <p align="justify">Meu nome é Julia Costa e estou atualmente cursando o quarto ano do ensino médio integrado a informática no Instituo Federal de Educação, Ciência e Técnologia de São Paulo - Campus São Paulo. Minha carreira ainda está no início, porém, estou cursando um estágio na area de Front-End e já participei de muitos projetos empreendedores realizados no IFSP e inclusive meu grupo já ganhou um deles. Estou sempre em busca de novos conhecimentos afim de adquirir maior experiência.</p>
 </div>
 
+<br />
+
+<h3 align="center">Entre em contato em:</h3>
+ <p align="center">
+   <a href="https://www.linkedin.com/in/julia-costa-5595a1231/" target="blank">
+     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jeleia" height="30" width="40" />
+   </a>
+   <a href="https://www.instagram.com" target="blank">
+     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jeleia" height="30" width="40" />
+   </a>
+   <a href="https://discord.gg/Julia Lia#0426" target="blank">
+     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jeleia" height="30" width="40" />
+   </a>
+</p>
+
+<br />
+
 <br><br>
 <div>
   <a href="https://github.com/Jeleiea">
