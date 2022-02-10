@@ -1,4 +1,4 @@
-<h2>Olá, seja bem vindo(a)!</h2>
+<h2>Olá, seja bem vindo(a) ao meu perfil!</h2>
 <div>
   <img align="left" src="https://cdn.discordapp.com/attachments/519610025124298756/941343093012172890/unknown.png> 
   <p align="justify">Meu nome é Julia Costa e estou atualmente cursando o quarto ano do ensino médio integrado a informática no Instituo Federal de Educação, Ciência e Técnologia de São Paulo - Campus São Paulo. Minha carreira ainda está no início, porém, estou cursando um estágio na area de Front-End e já participei de muitos projetos empreendedores realizados no IFSP e inclusive meu grupo já ganhou um deles. Estou sempre em busca de novos conhecimentos afim de adquirir maior experiência.</p>
@@ -25,4 +25,3 @@
   </div>
 <br>
   
-   ![Snake animation](https://github.com/Jeleia/Jeleia/blob/output/github-contribution-grid-snake.svg)
