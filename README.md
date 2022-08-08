@@ -1,7 +1,7 @@
 <h2>Olá, seja bem vindo(a) ao meu perfil!</h2>
 
 <div>
-  <p align="justify">Meu nome é Julia Costa, tenho 18 anos e sou fluente em Inglês. Atualmente cursando o quarto ano do ensino médio integrado a informática no Instituo Federal de Educação, Ciência e Técnologia de São Paulo - Campus São Paulo. Minha carreira ainda está no início, porém, estou cursando um estágio na area de Front-End e já participei de muitos projetos empreendedores realizados no IFSP e inclusive meu grupo já ganhou um deles. Estou sempre em busca de novos conhecimentos afim de adquirir maior experiência.</p>
+  <p align="justify">Meu nome é Julia Costa, tenho 18 anos e sou fluente em Inglês. Atualmente cursando o quarto ano do ensino médio integrado a informática no Instituo Federal de Educação, Ciência e Técnologia de São Paulo - Campus São Paulo. Minha carreira ainda está no início, porém, já participei de muitos projetos empreendedores realizados no IFSP e inclusive meu grupo já ganhou um deles. Estou sempre em busca de novos conhecimentos afim de adquirir maior experiência.</p>
 </div>
 
 <br>
