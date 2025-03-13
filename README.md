@@ -1,7 +1,7 @@
 <h2>Olá, seja bem vindo(a) ao meu perfil!</h2>
 
 <div>
-  <p align="justify">Meu nome é Julia Costa, tenho 18 anos e sou fluente em Inglês. Atualmente cursando o quarto ano do ensino médio integrado a informática no Instituo Federal de Educação, Ciência e Técnologia de São Paulo - Campus São Paulo. Minha carreira ainda está no início, porém, já participei de muitos projetos empreendedores realizados no IFSP e inclusive meu grupo já ganhou um deles. Estou sempre em busca de novos conhecimentos afim de adquirir maior experiência.</p>
+  <p align="justify">Meu nome é Julia Costa e tenho 21 anos. Atualmente cursando o primeiro semestre do curso Sistema das Informação na FIAP. Tive meu ensino médio integrado a informática no Instituo Federal de Educação, Ciência e Técnologia de São Paulo. Sou uma pessoa criativa e dinâmica, tenho experiência em trabalhos em equipe e participei de eventos de startup (Startup in School - Edição Google Brasil - 1° Lugar Sudeste | 2° Lugar Nacional | 2019) (Respostas para o Amanhã 2021 - Samsung Brasil Semana da Computação). Minha experiência acadêmica conta com projetos desenvolvidos em cada um dos anos estudantis, jogo de Labirinto para conclusão da disciplina (2019), site com aplicação de metodologias ágeis (2020-2021), jogo RPG para contemplar o hospital do GRAAC (2021), e site completo para conclusão da disciplina final (2022).. Estou sempre em busca de novos conhecimentos afim de adquirir maior experiência.</p>
 </div>
 
 <br>
