@@ -1,56 +1,39 @@
-<h2>Olá, seja bem vindo(a) ao meu perfil!</h2>
-
-<div>
-  <p align="justify">Meu nome é Julia Costa e tenho 21 anos. Atualmente cursando o primeiro semestre do curso Sistema das Informação na FIAP. Tive meu ensino médio integrado a informática no Instituo Federal de Educação, Ciência e Técnologia de São Paulo. Sou uma pessoa criativa e dinâmica, tenho experiência em trabalhos em equipe e participei de eventos de startup (Startup in School - Edição Google Brasil - 1° Lugar Sudeste | 2° Lugar Nacional | 2019) (Respostas para o Amanhã 2021 - Samsung Brasil Semana da Computação). Minha experiência acadêmica conta com projetos desenvolvidos em cada um dos anos estudantis, jogo de Labirinto para conclusão da disciplina (2019), site com aplicação de metodologias ágeis (2020-2021), jogo RPG para contemplar o hospital do GRAAC (2021), e site completo para conclusão da disciplina final (2022).. Estou sempre em busca de novos conhecimentos afim de adquirir maior experiência.</p>
-</div>
-
-<br>
-<br>
-
-<div>
-  <a href="https://github.com/Jeleiea">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=Jeleia&show_icons=true&theme=radical&count_private=true"/>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeleia&layout=compact&theme=radical"/>
-</div>
-  
-<br>
-  
+![](https://komarev.com/ghpvc/?username=Jeleia&label=Profile%20views&color=DA70D6&style=flat))
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Jeleia&label=Profile%20views&color=DA70D6&style=flat" alt="Jeleia" /> 
 </p>
 
+<div align="center">
 
-  <div align="left">
-    <h3>Tenho conhecimento em:</h3>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" alt="illustrator" height="30" width="40" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg">
-  </div>    
-  
-  <div align="left">
-    <h3>Estou aprendendo:</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  </div>
-    
-  
-  <h3 align="center">Entre em contato em:</h3>
- <p align="center">
-  
-   <a href="https://www.linkedin.com/in/julia-costa-5595a1231/" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jeleia" height="30" width="40" />
-   </a>
-  
-   <a href="https://www.instagram.com" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jeleia" height="30" width="40" />
-   </a>
-  
+<div> 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76E9D&width=435&lines=Hello%2C+my+name+is+Julia+Costa)](https://git.io/typing-svg)
+
+
+<div align="left">
+
+<div> 
+
+
+<blockquote>Sou estudante do primeiro semestre de Sistemas de Informação na FIAP e Técnica em Informática pelo Instituto Federal de São Paulo. Entusiasta da tecnologia e dedicada ao aprendizado constante, sou uma pessoa criativa e dinâmica em busca de mais experiências na área da tecnologia.</blockquote>
+<br/>
+<blockquote>I'm a Systems Information student at FIAP currently at the first semester and hold a degree in Informatics from the Federal Institute of São Paulo. A technology enthusiast and dedicated to constant learning, i am a creative and dynamic person looking for more experiences in the technology area.</blockquote>
+
+## 💻 My skills and technologies!
+ 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTMLS](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+
+## ✨ GitHub Stats
+<p align = "center">
+  <a href="[https://github.com/jeleia]"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliacosta&show_icons=true&theme=purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliacosta&layout=compact&langs_count=16&theme=purple"/>
+
+ ![Snake animation](https://github.com/katharinefernandes/katharinefernandes/blob/output/github-contribution-grid-snake.svg)
 </p>
-  
-   <div align="center">
-    <img align="center" src="https://raw.githubusercontent.com/AdryanAlencar/adryanalencar/output/github-contribution-grid-snake.svg"/>
-  </div>
-  
