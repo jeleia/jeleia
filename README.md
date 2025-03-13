@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Jeleia&label=Profile%20views&color=DA70D6&style=flat))
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Jeleia&label=Profile%20views&color=DA70D6&style=flat" alt="Jeleia" /> 
 </p>
@@ -14,7 +13,6 @@
 
 <div> 
 
-
 <blockquote>Sou estudante do primeiro semestre de Sistemas de Informação na FIAP e Técnica em Informática pelo Instituto Federal de São Paulo. Entusiasta da tecnologia e dedicada ao aprendizado constante, sou uma pessoa criativa e dinâmica em busca de mais experiências na área da tecnologia.</blockquote>
 <br/>
 <blockquote>I'm a Systems Information student at FIAP currently at the first semester and hold a degree in Informatics from the Federal Institute of São Paulo. A technology enthusiast and dedicated to constant learning, i am a creative and dynamic person looking for more experiences in the technology area.</blockquote>
@@ -28,12 +26,6 @@
 ![HTMLS](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
-
-## ✨ GitHub Stats
-<p align = "center">
-  <a href="[https://github.com/jeleia]"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliacosta&show_icons=true&theme=purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliacosta&layout=compact&langs_count=16&theme=purple"/>
 
  ![Snake animation](https://github.com/katharinefernandes/katharinefernandes/blob/output/github-contribution-grid-snake.svg)
 </p>
