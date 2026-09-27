@@ -13,9 +13,9 @@
 
 <div> 
 
-<blockquote>Sou estudante do segundo semestre de Sistemas de Informação na FIAP e Técnica em Informática pelo Instituto Federal de São Paulo. Entusiasta da tecnologia e dedicada ao aprendizado constante, sou uma pessoa criativa e dinâmica em busca de mais experiências na área da tecnologia.</blockquote>
+<blockquote>Sou estudante do quarto semestre de Sistemas de Informação na FIAP e Técnica em Informática pelo Instituto Federal de São Paulo. Entusiasta da tecnologia e dedicada ao aprendizado constante, sou uma pessoa criativa e dinâmica em busca de mais experiências na área da tecnologia.</blockquote>
 <br/>
-<blockquote>I'm a Systems Information student at FIAP currently at the second semester and hold a degree in Informatics from the Federal Institute of São Paulo. A technology enthusiast and dedicated to constant learning, i am a creative and dynamic person looking for more experiences in the technology area.</blockquote>
+<blockquote>I'm a Systems Information student at FIAP currently at the fourth semester and hold a degree in Informatics from the Federal Institute of São Paulo. A technology enthusiast and dedicated to constant learning, i am a creative and dynamic person looking for more experiences in the technology area.</blockquote>
 
 ## 💻 My skills and technologies!
  
